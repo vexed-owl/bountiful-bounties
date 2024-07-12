@@ -1,0 +1,76 @@
+{
+    "content": {
+
+		"cook_rew_honey_bottle": {
+			"type": "item",
+			"content": "minecraft:honey_bottle",
+			"amount": 
+			{
+				"min": 1,
+				"max": 3
+			},
+			"unitWorth": 1000
+		},
+
+		"cook_rew_milk": {
+			"type": "item",
+			"content": "minecraft:milk",
+			"amount": 
+			{
+				"min": 1,
+				"max": 6
+			},
+			"unitWorth": 250
+		},
+
+		"cook_rew_sugar": {
+			"type": "item",
+			"content": "minecraft:sugar",
+			"amount": 
+			{
+				"min": 3,
+				"max": 36
+			},
+			"unitWorth": 40
+		},
+
+		"cook_rew_egg": {
+			"type": "item",
+			"rarity": "UNCOMMON",
+			"content": "minecraft:egg",
+			"amount": 
+			{
+				"min": 6,
+				"max": 36
+			},
+			"unitWorth": 50
+		},
+
+		"cook_rew_cocoa_beans": {
+			"type": "item",
+			"rarity": "UNCOMMON",
+			"content": "minecraft:cocoa_beans",
+			"amount": 
+			{
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 200
+		},
+
+		"cook_rew_honey_block": {
+			"type": "item",
+			"rarity": "RARE",
+			"content": "minecraft:honey_block",
+			"amount": 
+			{
+				"min": 1,
+				"max": 2
+			},
+			"unitWorth": 9000
+		}
+
+	}
+
+
+}

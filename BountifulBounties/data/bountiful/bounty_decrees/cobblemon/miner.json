@@ -1,0 +1,14 @@
+{
+	"objectives": 
+	[
+		"miner_objs",
+		"_all_objs",
+		"miner_cm_objs"
+	],
+	"rewards": 
+	[
+		"miner_rews",
+		"_all_rews",
+		"miner_cm_rews"
+	]
+}

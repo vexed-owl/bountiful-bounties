@@ -1,0 +1,185 @@
+{
+
+    "content": 
+	{
+
+		"slayer_rew_blaze_powder": {
+			"type": "item",
+			"content": "minecraft:blaze_powder",
+			"amount": 
+			{
+				"min": 2,
+				"max": 4
+			},
+			"unitWorth": 800
+		},
+
+		"slayer_rew_blaze_rod": {
+			"type": "item",
+			"content": "minecraft:blaze_rod",
+			"amount": 
+			{
+				"min": 2,
+				"max": 4
+			},
+			"unitWorth": 400
+		},
+
+		"slayer_rew_slime_ball": {
+			"type": "item",
+			"content": "minecraft:slime_ball",
+			"amount": 
+			{
+				"min": 2,
+				"max": 4
+			},
+			"unitWorth": 400
+		},
+
+		"slayer_rew_xp_bottle": {
+			"type": "item",
+			"content": "minecraft:experience_bottle",
+			"amount": 
+			{
+				"min": 1,
+				"max": 4
+			},
+			"unitWorth": 1000
+		},
+
+		"slayer_rew_xp_bottle_uncommon": {
+			"type": "item",
+			"content": "minecraft:experience_bottle",
+			"rarity": "UNCOMMON",
+			"amount": 
+			{
+				"min": 2,
+				"max": 8
+			},
+			"unitWorth": 1000
+		},
+
+		"slayer_rew_gun_powder": {
+			"type": "item",
+			"content": "minecraft:gun_powder",
+			"rarity": "UNCOMMON",
+			"amount": 
+			{
+				"min": 1,
+				"max": 6
+			},
+			"unitWorth": 200
+		},
+
+		"slayer_rew_magma_cream": {
+			"type": "item",
+			"content": "minecraft:magma_cream",
+			"rarity": "UNCOMMON",
+			"amount": 
+			{
+				"min": 1,
+				"max": 4
+			},
+			"unitWorth": 450
+		},
+
+		"slayer_rew_phantom_membrane": {
+			"type": "item",
+			"content": "minecraft:phantom_membrane",
+			"rarity": "UNCOMMON",
+			"amount": 
+			{
+				"min": 1,
+				"max": 6
+			},
+			"unitWorth": 500
+		},
+
+		"slayer_rew_xp_bottle_rare": {
+			"type": "item",
+			"content": "minecraft:experience_bottle",
+			"rarity": "RARE",
+			"amount": 
+			{
+				"min": 4,
+				"max": 16
+			},
+			"unitWorth": 1000
+		},
+
+		"slayer_rew_ghast_tear": {
+			"type": "item",
+			"content": "minecraft:ghast_tear",
+			"rarity": "RARE",
+			"amount": 
+			{
+				"min": 1,
+				"max": 4
+			},
+			"unitWorth": 2000
+		},
+
+		"slayer_rew_prismarine_shard": {
+			"type": "item",
+			"content": "minecraft:prismarine_shard",
+			"rarity": "RARE",
+			"amount": 
+			{
+				"min": 1,
+				"max": 4
+			},
+			"unitWorth": 750
+		},
+
+		"slayer_rew_xp_bottle_epic": {
+			"type": "item",
+			"content": "minecraft:experience_bottle",
+			"rarity": "EPIC",
+			"amount": 
+			{
+				"min": 6,
+				"max": 24
+			},
+			"unitWorth": 1000
+		},
+
+		"slayer_rew_prismarine_crystal": {
+			"type": "item",
+			"content": "minecraft:prismarine_shard",
+			"rarity": "EPIC",
+			"amount": 
+			{
+				"min": 1,
+				"max": 4
+			},
+			"unitWorth": 2000
+		},
+
+		"slayer_rew_xp_bottle_legendary": {
+			"type": "item",
+			"content": "minecraft:experience_bottle",
+			"rarity": "LEGENDARY",
+			"amount": 
+			{
+				"min": 1,
+				"max": 36
+			},
+			"unitWorth": 1000
+		},
+
+		"slayer_rew_totem_undying": {
+			"type": "item",
+			"content": "minecraft:totem_of_undying",
+			"rarity": "LEGENDARY",
+			"amount": 
+			{
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 4000
+		}
+
+	}
+
+
+}

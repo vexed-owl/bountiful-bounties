@@ -1,0 +1,15 @@
+{
+	"objectives": 
+	[
+		"farmer_objs",
+		"_all_objs",
+		"farmer_fd_objs"
+	],
+	"rewards": 
+	[
+		"farmer_rews",
+		"_all_rews",
+		"_gardening_rews",
+		"farmer_fd_rews"
+	]
+}

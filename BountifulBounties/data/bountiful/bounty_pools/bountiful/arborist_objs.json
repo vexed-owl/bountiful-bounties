@@ -1,0 +1,62 @@
+
+{
+	"content": {
+
+        "arborist_obj_stick": {
+            "type": "item",
+            "content": "minecraft:stick",
+            "amount": 
+            {
+                "min": 8,
+                "max": 64
+            },
+            "unitWorth": 30
+        },
+
+        "arborist_obj_planks_random": {
+            "type": "item",
+            "content": "#minecraft:planks",
+            "amount": 
+            {
+                "min": 6,
+                "max": 64
+            },
+            "unitWorth": 60
+        },
+
+        "arborist_obj_logs_random": {
+            "type": "item",
+            "content": "#minecraft:logs",
+            "amount": 
+            {
+                "min": 2,
+                "max": 10
+            },
+            "unitWorth": 240
+        },
+
+		"arborist_obj_bone_meal": {
+			"type": "item",
+			"content": "minecraft:bone_meal",
+			"amount": 
+            {
+				"min": 4,
+				"max": 48
+			},
+			"unitWorth": 50
+		},
+
+		"arborist_obj_sapling_random": {
+			"type": "item",
+			"content": "#minecraft:saplings",
+			"amount": 
+            {
+				"min": 3,
+				"max": 36
+			},
+			"unitWorth": 50
+		}
+
+	}
+
+}

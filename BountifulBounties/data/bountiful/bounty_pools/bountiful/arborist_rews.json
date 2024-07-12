@@ -1,0 +1,260 @@
+
+{
+	"content": {
+
+		"arborist_rew_cherry_sapling": {
+			"type": "item",
+			"content": "minecraft:cherry_sapling",
+			"amount": 
+			{
+				"min": 1,
+				"max": 3
+			},
+			"unitWorth": 250,
+            "forbids": 
+			[
+				{
+					"type": "item",
+					"content": "minecraft:cherry_sapling"
+				}
+			]
+		},
+
+        "arborist_rew_jungle_sapling": {
+			"type": "item",
+			"content": "minecraft:jungle_sapling",
+			"amount": 
+			{
+				"min": 1,
+				"max": 3
+			},
+			"unitWorth": 250,
+            "forbids": 
+			[
+				{
+					"type": "item",
+					"content": "minecraft:jungle_sapling"
+				}
+			]
+		}, 
+
+        "arborist_rew_bamboo": {
+			"type": "item",
+			"content": "minecraft:bamboo",
+			"amount": 
+			{
+				"min": 1,
+				"max": 3
+			},
+			"unitWorth": 250,
+            "forbids": 
+			[
+				{
+					"type": "item",
+					"content": "minecraft:bamboo"
+				}
+			]
+		},
+
+		"arborist_rew_dark_oak_sapling": {
+			"type": "item",
+			"content": "minecraft:dark_oak_sapling",
+			"amount": 
+			{
+				"min": 1,
+				"max": 3
+			},
+			"unitWorth": 250,
+            "forbids": 
+			[
+				{
+					"type": "item",
+					"content": "minecraft:dark_oak_sapling"
+				}
+			]
+		},
+
+		"arborist_rew_acacia_sapling": {
+			"type": "item",
+			"content": "minecraft:acacia_sapling",
+			"amount": 
+			{
+				"min": 1,
+				"max": 3
+			},
+			"unitWorth": 250,
+            "forbids": 
+			[
+				{
+					"type": "item",
+					"content": "minecraft:acacia_sapling"
+				}
+			]
+		},
+
+		"arborist_rew_mangrove_propagule": {
+			"type": "item",
+			"content": "minecraft:mangrove_propagule",
+			"amount": 
+			{
+				"min": 1,
+				"max": 3
+			},
+			"unitWorth": 250,
+            "forbids": 
+			[
+				{
+					"type": "item",
+					"content": "minecraft:mangrove_propagule"
+				}
+			]
+		},
+
+		"arborist_rew_apple": {
+			"type": "item",
+			"content": "minecraft:apple",
+			"rarity": "UNCOMMON",
+			"amount": 
+			{
+				"min": 1,
+				"max": 4
+			},
+			"unitWorth": 250
+		},
+
+		"arborist_rew_honey_bottle": {
+			"type": "item",
+			"content": "minecraft:honey_bottle",
+			"rarity": "UNCOMMON",
+			"amount": 
+			{
+				"min": 1,
+				"max": 3
+			},
+			"unitWorth": 1000
+		},
+
+		"arborist_rew_honeycomb": {
+			"type": "item",
+			"content": "minecraft:honeycomb",
+			"rarity": "UNCOMMON",
+			"amount": 
+			{
+				"min": 1,
+				"max": 3
+			},
+			"unitWorth": 900
+		},
+
+		"arborist_rew_iron_axe": {
+			"type": "item",
+			"rarity": "UNCOMMON",
+			"content": "minecraft:iron_axe",
+			"amount": {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 3000,
+			"nbt": "{Damage:0}",
+			"forbids": [
+				{
+					"type": "item",
+					"content": "minecraft:iron_ingot"
+				}
+			]
+		},
+
+		"arborist_rew_bee_nest": {
+			"type": "item",
+			"content": "minecraft:bee_nest",
+			"rarity": "RARE",
+			"amount": 
+			{
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 2000
+		},
+
+		"arborist_rew_vine": {
+			"type": "item",
+			"content": "minecraft:vine",
+			"rarity": "RARE",
+			"amount": 
+			{
+				"min": 1,
+				"max": 3
+			},
+			"unitWorth": 1000
+		},
+
+		"arborist_rew_azalea": {
+			"type": "item",
+			"content": "minecraft:azalea",
+			"rarity": "EPIC",
+			"amount": 
+			{
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 1000
+		},
+
+		"arborist_rew_cave_vine": {
+			"type": "item",
+			"content": "minecraft:cave_vine",
+			"rarity": "EPIC",
+			"amount": 
+			{
+				"min": 1,
+				"max": 3
+			},
+			"unitWorth": 1000
+		},
+
+
+		"arborist_rew_diamond_axe": {
+			"type": "item",
+			"rarity": "EPIC",
+			"content": "minecraft:diamond_axe",
+			"amount": {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 12000,
+			"nbt": "{Damage:0}",
+			"forbids": [
+				{
+					"type": "item",
+					"content": "minecraft:diamond"
+				}
+			]
+		},
+
+		"arborist_rew_flowering_azalea": {
+			"type": "item",
+			"content": "minecraft:flowering_azalea",
+			"rarity": "EPIC",
+			"amount": 
+			{
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 1000
+		},
+
+		"arborist_rew_moss_block": {
+			"type": "item",
+			"content": "minecraft:moss_block",
+			"rarity": "EPIC",
+			"amount": 
+			{
+				"min": 1,
+				"max": 3
+			},
+			"unitWorth": 500
+		}
+
+	}
+
+}

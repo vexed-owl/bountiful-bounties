@@ -1,0 +1,11 @@
+{
+	"objectives": 
+	[
+		"slayer_objs"
+	],
+	"rewards": 
+	[
+		"slayer_rews",
+		"_all_rews"
+	]
+}

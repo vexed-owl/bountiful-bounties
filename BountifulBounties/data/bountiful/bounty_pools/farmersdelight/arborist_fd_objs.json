@@ -1,0 +1,20 @@
+
+{
+	"requires": ["farmersdelight"],
+	"content": 
+	{
+
+		"arborist_obj_farmersdelight_tree_bark": {
+			"type": "item",
+			"content": "farmersdelight:tree_bark",
+			"amount": 
+			{
+				"min": 2,
+				"max": 32
+			},
+			"unitWorth": 40
+		}
+
+	}
+
+}

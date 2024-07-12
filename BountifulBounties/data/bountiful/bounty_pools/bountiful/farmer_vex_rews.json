@@ -1,0 +1,107 @@
+
+{
+
+	"content": {
+
+		"farmer_rew_blue_orchid": {
+			"type": "item",
+			"content": "minecraft:blue_orchid",
+			"rarity": "UNCOMMON",
+			"amount": {
+				"min": 1,
+				"max": 3
+			},
+			"unitWorth": 250
+		},
+
+		"farmer_rew_lilac": {
+			"type": "item",
+			"content": "minecraft:lilac",
+			"rarity": "UNCOMMON",
+			"amount": {
+				"min": 1,
+				"max": 3
+			},
+			"unitWorth": 250
+		},
+
+		"farmer_rew_lily_of_the_valley": {
+			"type": "item",
+			"content": "minecraft:lily_of_the_valley",
+			"rarity": "UNCOMMON",
+			"amount": {
+				"min": 1,
+				"max": 3
+			},
+			"unitWorth": 250
+		},
+
+		"farmer_rew_peony": {
+			"type": "item",
+			"content": "minecraft:peony",
+			"rarity": "UNCOMMON",
+			"amount": {
+				"min": 1,
+				"max": 3
+			},
+			"unitWorth": 250
+		},
+
+		"farmer_rew_rose_bush": {
+			"type": "item",
+			"content": "minecraft:rose_bush",
+			"rarity": "UNCOMMON",
+			"amount": {
+				"min": 1,
+				"max": 3
+			},
+			"unitWorth": 250
+		},
+
+		"farmer_rew_sunflower": {
+			"type": "item",
+			"content": "minecraft:sunflower",
+			"rarity": "UNCOMMON",
+			"amount": {
+				"min": 1,
+				"max": 3
+			},
+			"unitWorth": 250
+		},
+
+		"farmer_rew_flower_pot": {
+			"type": "item",
+			"content": "minecraft:flower_pot",
+			"rarity": "RARE",
+			"amount": {
+				"min": 1,
+				"max": 3
+			},
+			"unitWorth": 750
+		},
+
+		"farmer_rew_enchanted_golden_apple": {
+			"type": "item",
+			"content": "minecraft:enchanted_golden_apple",
+			"rarity": "LEGENDARY",
+			"amount": {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 14000
+		},
+
+		"farmer_rew_wither_rose": {
+			"type": "item",
+			"content": "minecraft:wither_rose",
+			"rarity": "LEGENDARY",
+			"amount": {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 4000
+		}
+
+	}
+
+}

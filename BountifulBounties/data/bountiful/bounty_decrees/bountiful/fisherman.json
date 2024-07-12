@@ -1,0 +1,13 @@
+{
+	"objectives": 
+	[
+		"fisherman_objs",
+		"_all_objs"
+	],
+	"rewards": 
+	[
+		"fisherman_rews",
+		"_all_rews",
+		"fisherman_vex_rews"
+	]
+}

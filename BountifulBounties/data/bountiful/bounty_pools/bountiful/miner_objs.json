@@ -1,0 +1,271 @@
+{
+	"content": 
+	{
+
+		"miner_obj_andesite": {
+			"type": "item",
+			"content": "minecraft:andesite",
+			"amount": 
+			{
+				"min": 8,
+				"max": 64
+			},
+			"unitWorth": 35
+		},
+
+		"miner_obj_basalt": {
+			"type": "item",
+			"content": "minecraft:basalt",
+			"amount": 
+			{
+				"min": 8,
+				"max": 64
+			},
+			"unitWorth": 50
+		},
+
+		"miner_obj_blackstone": {
+			"type": "item",
+			"content": "minecraft:blackstone",
+			"amount": 
+			{
+				"min": 8,
+				"max": 64
+			},
+			"unitWorth": 50
+		},
+
+		"miner_obj_coal": {
+            "type": "item",
+            "content": "minecraft:coal",
+            "amount": 
+			{
+                "min": 8,
+                "max": 64
+            },
+            "unitWorth": 100
+        },
+
+		"miner_obj_cobblestone": {
+			"type": "item",
+			"content": "minecraft:cobblestone",
+			"amount": 
+			{
+				"min": 8,
+				"max": 64
+			},
+			"unitWorth": 25
+		},
+
+		"miner_obj_cobbled_deepslate": {
+			"type": "item",
+			"content": "minecraft:cobbled_deepslate",
+			"amount": 
+			{
+				"min": 8,
+				"max": 64
+			},
+			"unitWorth": 30
+		},
+
+		"miner_obj_diorite": {
+			"type": "item",
+			"content": "minecraft:diorite",
+			"amount": 
+			{
+				"min": 8,
+				"max": 64
+			},
+			"unitWorth": 35
+		},
+
+		"miner_obj_dirt": {
+			"type": "item",
+			"content": "minecraft:dirt",
+			"amount": 
+			{
+				"min": 8,
+				"max": 64
+			},
+			"unitWorth": 15
+		},
+
+        "miner_obj_flint": {
+            "type": "item",
+            "content": "minecraft:flint",
+            "amount": 
+			{
+                "min": 8,
+                "max": 32
+            },
+            "unitWorth": 35
+        },
+
+		"miner_obj_granite": {
+			"type": "item",
+			"content": "minecraft:granite",
+			"amount": 
+			{
+				"min": 8,
+				"max": 64
+			},
+			"unitWorth": 35
+		},
+
+        "miner_obj_gravel": {
+            "type": "item",
+            "content": "minecraft:gravel",
+            "amount": 
+			{
+                "min": 8,
+                "max": 64
+            },
+            "unitWorth": 30
+        },
+
+		"miner_obj_raw_copper": {
+			"type": "item",
+			"content": "minecraft:raw_copper",
+			"amount": 
+			{
+				"min": 2,
+				"max": 24
+			},
+			"unitWorth": 700
+		},
+
+		"miner_obj_raw_gold": {
+			"type": "item",
+			"content": "minecraft:raw_gold",
+			"amount": 
+			{
+				"min": 2,
+				"max": 16
+			},
+			"unitWorth": 1250
+		},
+
+		"miner_obj_raw_iron": {
+			"type": "item",
+			"content": "minecraft:raw_iron",
+			"amount": 
+			{
+				"min": 2,
+				"max": 16
+			},
+			"unitWorth": 1000
+		},
+
+		"miner_obj_stone_bricks": {
+			"type": "item",
+			"rarity": "UNCOMMON",
+			"content": "minecraft:stone_bricks",
+			"amount": 
+			{
+				"min": 8,
+				"max": 64
+			},
+			"unitWorth": 50
+		},
+
+		"miner_obj_calcite": {
+			"type": "item",
+			"rarity": "UNCOMMON",
+			"content": "minecraft:calcite",
+			"amount": 
+			{
+				"min": 8,
+				"max": 64
+			},
+			"unitWorth": 150
+		},
+
+		"miner_obj_dripstone": {
+			"type": "item",
+			"rarity": "UNCOMMON",
+			"content": "minecraft:dripstone",
+			"amount": 
+			{
+				"min": 8,
+				"max": 64
+			},
+			"unitWorth": 75
+		},
+
+		"miner_obj_smooth_basalt": {
+			"type": "item",
+			"rarity": "UNCOMMON",
+			"content": "minecraft:smooth_basalt",
+			"amount": 
+			{
+				"min": 8,
+				"max": 64
+			},
+			"unitWorth": 75
+		},
+
+
+		"miner_obj_amethyst_shard": {
+			"type": "item",
+			"rarity": "RARE",
+			"content": "minecraft:amethyst_shard",
+			"amount": 
+			{
+				"min": 2,
+				"max": 24
+			},
+			"unitWorth": 400
+		},
+
+		"miner_obj_lapis_lazuli": {
+			"type": "item",
+			"rarity": "RARE",
+			"content": "minecraft:lapis_lazuli",
+			"amount": 
+			{
+				"min": 2,
+				"max": 24
+			},
+			"unitWorth": 750
+		},
+
+
+		"miner_obj_diamond": {
+			"type": "item",
+			"rarity": "EPIC",
+			"content": "minecraft:diamond",
+			"amount": 
+			{
+				"min": 1,
+				"max": 4
+			},
+			"unitWorth": 4000
+		},
+
+		"miner_obj_lapis_block": {
+			"type": "item",
+			"rarity": "EPIC",
+			"content": "minecraft:lapis_block",
+			"amount": 
+			{
+				"min": 1,
+				"max": 3
+			},
+			"unitWorth": 6750
+		},
+
+		"miner_obj_amethyst_block": {
+			"type": "item",
+			"rarity": "RARE",
+			"content": "minecraft:amethyst_block",
+			"amount": 
+			{
+				"min": 1,
+				"max": 8
+			},
+			"unitWorth": 1600
+		}
+
+	}
+
+}

@@ -1,0 +1,20 @@
+{
+	"requires": ["supplementaries"],
+	"content": 
+    {
+
+        "farmer_rew_supplementaries_flax_seeds": {
+            "type": "item",
+            "content": "supplementaries:flax_seeds",
+            "rarity": "UNCOMMON",
+            "amount": 
+            {
+                "min": 1,
+                "max": 4
+            },
+            "unitWorth": 250
+        }
+
+    }
+
+}

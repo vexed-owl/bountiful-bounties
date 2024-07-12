@@ -1,0 +1,18 @@
+{
+    "bountiful.decree.arborist.name": "Arboricultura",
+
+    "bountiful.decree.cook.name": "Cocina",
+
+    "bountiful.decree.miner.name": "Minería",
+        "bountiful.entry.miner_obj_cm_catch_ground": "Atrapar Pokemon Tipo Tierra",
+        "bountiful.entry.miner_obj_cm_catch_rock": "Atrapar Pokemon Tipo Roca",
+        "bountiful.entry.miner_obj_cm_catch_steel": "Atrapar Pokemon Tipo Acero",
+
+    "bountiful.decree.slayer.name": "Matando Monstruos",
+
+    "bountiful.decree.smith.name": "Herrería",
+    
+    "bountiful.decree.tailor.name": "Sastrería",
+
+            "bountiful.entry.farmer_rew_cobblemon_mints_wildcard": "Menta Aleatoria"
+}

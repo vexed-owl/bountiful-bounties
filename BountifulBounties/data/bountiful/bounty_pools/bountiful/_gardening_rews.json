@@ -1,0 +1,81 @@
+{
+	"replace": true,
+
+	"content": {
+
+		"gardening_rew_iron_hoe": {
+			"type": "item",
+			"rarity": "UNCOMMON",
+			"content": "minecraft:iron_hoe",
+			"amount": {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 1800,
+			"nbt": "{Damage:0}",
+			"forbids": [
+				{
+					"type": "item",
+					"content": "minecraft:iron_ingot"
+				}
+			]
+		},
+
+		"gardening_rew_iron_shovel": {
+			"type": "item",
+			"rarity": "UNCOMMON",
+			"content": "minecraft:iron_shovel",
+			"amount": {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 600,
+			"nbt": "{Damage:0}",
+			"forbids": [
+				{
+					"type": "item",
+					"content": "minecraft:iron_ingot"
+				}
+			]
+		},
+
+		"gardening_rew_diamond_hoe": {
+			"type": "item",
+			"rarity": "EPIC",
+			"content": "minecraft:diamond_hoe",
+			"amount": {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 7200,
+			"nbt": "{Damage:0}",
+			"forbids": [
+				{
+					"type": "item",
+					"content": "minecraft:diamond"
+				}
+			]
+		},
+
+		"gardening_rew_diamond_shovel": {
+			"type": "item",
+			"rarity": "EPIC",
+			"content": "minecraft:diamond_shovel",
+			"amount": {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 2400,
+			"nbt": "{Damage:0}",
+			"forbids": [
+				{
+					"type": "item",
+					"content": "minecraft:diamond"
+				}
+			]
+		}
+
+	}
+
+
+}

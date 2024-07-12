@@ -1,0 +1,12 @@
+{
+	"objectives": 
+	[
+		"arborist_objs",
+		"_all_objs"
+	],
+	"rewards": 
+	[
+		"arborist_rews",
+		"_all_rews"
+	]
+}

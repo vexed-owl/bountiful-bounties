@@ -1,0 +1,476 @@
+{
+	"content": 
+	{
+
+		"slayer_obj_creeper": {
+			"type": "entity",
+			"content": "minecraft:creeper",
+			"timeMult": 7.0,
+			"amount": 
+			{
+				"min": 1,
+				"max": 4
+			},
+			"unitWorth": 275,
+			"weightMult": 1.1
+		},
+
+		"slayer_obj_drowned": {
+			"type": "entity",
+			"content": "minecraft:drowned",
+			"timeMult": 6.0,
+			"amount": 
+			{
+				"min": 1,
+				"max": 8
+			},
+			"unitWorth": 250,
+			"weightMult": 1.1
+		},
+
+		"slayer_obj_husk": {
+			"type": "entity",
+			"content": "minecraft:husk",
+			"timeMult": 6.0,
+			"amount": 
+			{
+				"min": 1,
+				"max": 8
+			},
+			"unitWorth": 250,
+			"weightMult": 1.1
+		},
+
+		"slayer_obj_skeleton": {
+			"type": "entity",
+			"content": "minecraft:skeleton",
+			"timeMult": 6.0,
+			"amount": 
+			{
+				"min": 1,
+				"max": 8
+			},
+			"unitWorth": 250,
+			"weightMult": 1.5
+		},
+
+		"slayer_obj_spider": {
+			"type": "entity",
+			"content": "minecraft:spider",
+			"timeMult": 6.0,
+			"amount": 
+			{
+				"min": 1,
+				"max": 8
+			},
+			"unitWorth": 250,
+			"weightMult": 1.5
+		},
+
+		"slayer_obj_stray": {
+			"type": "entity",
+			"content": "minecraft:stray",
+			"timeMult": 6.0,
+			"amount": 
+			{
+				"min": 1,
+				"max": 4
+			},
+			"unitWorth": 250,
+			"weightMult": 1.1
+		},
+
+		"slayer_obj_zombie": {
+			"type": "entity",
+			"content": "minecraft:zombie",
+			"timeMult": 6.0,
+			"amount": 
+			{
+				"min": 1,
+				"max": 8
+			},
+			"unitWorth": 250,
+			"weightMult": 1.5
+		},
+
+		"slayer_obj_blaze": {
+			"type": "entity",
+			"content": "minecraft:blaze",
+			"rarity": "UNCOMMON",
+			"timeMult": 7.0,
+			"amount": 
+			{
+				"min": 1,
+				"max": 8
+			},
+			"unitWorth": 275,
+			"weightMult": 0.65
+		},
+
+		"slayer_obj_enderman": {
+			"type": "entity",
+			"content": "minecraft:enderman",
+			"rarity": "UNCOMMON",
+			"timeMult": 7.0,
+			"amount": 
+			{
+				"min": 1,
+				"max": 2
+			},
+			"unitWorth": 275,
+			"weightMult": 0.65
+		},
+
+		"slayer_obj_hoglin": {
+			"type": "entity",
+			"content": "minecraft:hoglin",
+			"rarity": "UNCOMMON",
+			"timeMult": 7.0,
+			"amount": 
+			{
+				"min": 1,
+				"max": 4
+			},
+			"unitWorth": 275,
+			"weightMult": 0.65
+		},
+
+		"slayer_obj_phantom": {
+			"type": "entity",
+			"content": "minecraft:phantom",
+			"rarity": "UNCOMMON",
+			"timeMult": 6.0,
+			"amount": 
+			{
+				"min": 1,
+				"max": 4
+			},
+			"unitWorth": 275,
+			"weightMult": 0.65
+		},
+
+		"slayer_obj_magma_cube": {
+			"type": "entity",
+			"content": "minecraft:magma_cube",
+			"rarity": "UNCOMMON",
+			"timeMult": 7.0,
+			"amount": 
+			{
+				"min": 1,
+				"max": 8
+			},
+			"unitWorth": 275,
+			"weightMult": 0.65
+		},
+
+		"slayer_obj_piglin": {
+			"type": "entity",
+			"content": "minecraft:piglin",
+			"rarity": "UNCOMMON",
+			"timeMult": 6.0,
+			"amount": 
+			{
+				"min": 1,
+				"max": 8
+			},
+			"unitWorth": 250,
+			"weightMult": 0.65
+		},
+
+		"slayer_obj_pillager": {
+			"type": "entity",
+			"content": "minecraft:pillager",
+			"rarity": "UNCOMMON",
+			"timeMult": 6.0,
+			"amount": 
+			{
+				"min": 1,
+				"max": 8
+			},
+			"unitWorth": 275,
+			"weightMult": 0.65
+		},
+
+		"slayer_obj_slime": {
+			"type": "entity",
+			"content": "minecraft:slime",
+			"rarity": "UNCOMMON",
+			"timeMult": 7.0,
+			"amount": 
+			{
+				"min": 1,
+				"max": 8
+			},
+			"unitWorth": 250,
+			"weightMult": 0.65
+		},
+
+		"slayer_obj_vindicator": {
+			"type": "entity",
+			"content": "minecraft:vindicator",
+			"rarity": "UNCOMMON",
+			"timeMult": 7.0,
+			"amount": 
+			{
+				"min": 1,
+				"max": 8
+			},
+			"unitWorth": 250,
+			"weightMult": 0.65
+		},
+
+		"slayer_obj_zombified_piglin": {
+			"type": "entity",
+			"content": "minecraft:zombified_piglin",
+			"rarity": "UNCOMMON",
+			"timeMult": 7.0,
+			"amount": 
+			{
+				"min": 1,
+				"max": 8
+			},
+			"unitWorth": 250,
+			"weightMult": 0.65
+		},
+
+		"slayer_obj_cave_spider": {
+			"type": "entity",
+			"content": "minecraft:cave_spider",
+			"rarity": "RARE",
+			"timeMult": 7.0,
+			"amount": 
+			{
+				"min": 1,
+				"max": 8
+			},
+			"unitWorth": 275,
+			"weightMult": 0.35
+		},
+
+		"slayer_obj_enderman_rare": {
+			"type": "entity",
+			"content": "minecraft:enderman",
+			"rarity": "RARE",
+			"timeMult": 7.0,
+			"amount": 
+			{
+				"min": 1,
+				"max": 4
+			},
+			"unitWorth": 275,
+			"weightMult": 0.35
+		},
+
+		"slayer_obj_ghast": {
+			"type": "entity",
+			"content": "minecraft:ghast",
+			"rarity": "RARE",
+			"timeMult": 7.0,
+			"amount": 
+			{
+				"min": 1,
+				"max": 4
+			},
+			"unitWorth": 550,
+			"weightMult": 0.35
+		},
+
+		"slayer_obj_guardian": {
+			"type": "entity",
+			"content": "minecraft:guardian",
+			"rarity": "RARE",
+			"timeMult": 7.0,
+			"amount": 
+			{
+				"min": 1,
+				"max": 8
+			},
+			"unitWorth": 550,
+			"weightMult": 0.35
+		},
+
+		"slayer_obj_piglin_brute": {
+			"type": "entity",
+			"content": "minecraft:piglin_brute",
+			"rarity": "RARE",
+			"timeMult": 7.0,
+			"amount": 
+			{
+				"min": 1,
+				"max": 8
+			},
+			"unitWorth": 550,
+			"weightMult": 0.35
+		},
+
+		"slayer_obj_ravager": {
+			"type": "entity",
+			"content": "minecraft:ravager",
+			"rarity": "RARE",
+			"timeMult": 7.0,
+			"amount": 
+			{
+				"min": 1,
+				"max": 4
+			},
+			"unitWorth": 550,
+			"weightMult": 0.35
+		},
+
+		"slayer_obj_silverfish": {
+			"type": "entity",
+			"content": "minecraft:silverfish",
+			"rarity": "RARE",
+			"timeMult": 7.0,
+			"amount": 
+			{
+				"min": 1,
+				"max": 8
+			},
+			"unitWorth": 250,
+			"weightMult": 0.35
+		},
+
+		"slayer_obj_wither_skeleton": {
+			"type": "entity",
+			"content": "minecraft:wither_skeleton",
+			"rarity": "RARE",
+			"timeMult": 7.0,
+			"amount": 
+			{
+				"min": 1,
+				"max": 8
+			},
+			"unitWorth": 550,
+			"weightMult": 0.35
+		},
+
+		"slayer_obj_evoker": {
+			"type": "entity",
+			"content": "minecraft:evoker",
+			"rarity": "EPIC",
+			"timeMult": 7.0,
+			"amount": 
+			{
+				"min": 1,
+				"max": 2
+			},
+			"unitWorth": 550,
+			"weightMult": 0.2
+		},
+
+		"slayer_obj_shulker": {
+			"type": "entity",
+			"content": "minecraft:shulker",
+			"rarity": "EPIC",
+			"timeMult": 7.0,
+			"amount": 
+			{
+				"min": 1,
+				"max": 8
+			},
+			"unitWorth": 550,
+			"weightMult": 0.2
+		},
+
+		"slayer_obj_vex": {
+			"type": "entity",
+			"content": "minecraft:vex",
+			"rarity": "EPIC",
+			"timeMult": 7.0,
+			"amount": 
+			{
+				"min": 1,
+				"max": 3
+			},
+			"unitWorth": 550,
+			"weightMult": 0.2
+		},
+
+		"slayer_obj_witch": {
+			"type": "entity",
+			"content": "minecraft:witch",
+			"rarity": "EPIC",
+			"timeMult": 7.0,
+			"amount": 
+			{
+				"min": 1,
+				"max": 3
+			},
+			"unitWorth": 550,
+			"weightMult": 0.2
+		},
+
+		"slayer_obj_zoglin": {
+			"type": "entity",
+			"content": "minecraft:zoglin",
+			"rarity": "EPIC",
+			"timeMult": 7.0,
+			"amount": 
+			{
+				"min": 1,
+				"max": 2
+			},
+			"unitWorth": 550,
+			"weightMult": 0.2
+		},
+
+		"slayer_obj_elder_guardian": {
+			"type": "entity",
+			"content": "minecraft:elder_guardian",
+			"rarity": "LEGENDARY",
+			"timeMult": 8.0,
+			"amount": 
+			{
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 16000,
+			"weightMult": 0.2
+		},
+
+		"slayer_obj_ender_dragon": {
+			"type": "entity",
+			"content": "minecraft:ender_dragon",
+			"rarity": "LEGENDARY",
+			"timeMult": 8.0,
+			"amount": 
+			{
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 20000,
+			"weightMult": 0.2
+		},
+
+		"slayer_obj_warden": {
+			"type": "entity",
+			"content": "minecraft:warden",
+			"rarity": "LEGENDARY",
+			"timeMult": 8.0,
+			"amount": 
+			{
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 32000,
+			"weightMult": 0.2
+		},
+
+		"slayer_obj_wither": {
+			"type": "entity",
+			"content": "minecraft:wither",
+			"rarity": "LEGENDARY",
+			"timeMult": 8.0,
+			"amount": 
+			{
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 28000,
+			"weightMult": 0.2
+		}
+
+    }
+
+}

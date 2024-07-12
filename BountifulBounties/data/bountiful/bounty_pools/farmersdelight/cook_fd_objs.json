@@ -1,0 +1,606 @@
+
+{
+	"requires": ["farmersdelight"],
+	"content": 
+	{
+
+		"cook_obj_farmersdelight_cabbage_rolls": {
+			"type": "item",
+			"content": "farmersdelight:cabbage_rolls",
+			"amount": 
+			{
+				"min": 2,
+				"max": 24
+			},
+			"unitWorth": 40
+		},
+
+		"cook_obj_farmersdelight_cooked_rice": {
+			"type": "item",
+			"content": "farmersdelight:cooked_rice",
+			"amount": 
+			{
+				"min": 2,
+				"max": 24
+			},
+			"unitWorth": 50
+		},
+
+		"cook_obj_farmersdelight_fried_eggs": {
+			"type": "item",
+			"content": "farmersdelight:fried_eggs",
+			"amount": 
+			{
+				"min": 2,
+				"max": 16
+			},
+			"unitWorth": 65
+		},
+
+		"cook_obj_farmersdelight_bacon_sandwich": {
+			"type": "item",
+			"content": "farmersdelight:bacon_sandwich",
+			"rarity": "UNCOMMON",
+			"amount": 
+			{
+				"min": 1,
+				"max": 6
+			},
+			"unitWorth": 300
+		},
+
+		"cook_obj_farmersdelight_barbecue_stick": {
+			"type": "item",
+			"content": "farmersdelight:barbecue_stick",
+			"rarity": "UNCOMMON",
+			"amount": 
+			{
+				"min": 2,
+				"max": 8
+			},
+			"unitWorth": 250
+		},
+
+		"cook_obj_farmersdelight_bone_broth": {
+			"type": "item",
+			"content": "farmersdelight:bone_broth",
+			"rarity": "UNCOMMON",
+			"amount": 
+			{
+				"min": 2,
+				"max": 16
+			},
+			"unitWorth": 75
+		},
+
+		"cook_obj_farmersdelight_chicken_sandwich": {
+			"type": "item",
+			"content": "farmersdelight:chicken_sandwich",
+			"rarity": "UNCOMMON",
+			"amount": 
+			{
+				"min": 1,
+				"max": 6
+			},
+			"unitWorth": 275
+		},
+
+		"cook_obj_farmersdelight_cod_roll": {
+			"type": "item",
+			"content": "farmersdelight:cod_roll",
+			"rarity": "UNCOMMON",
+			"amount": 
+			{
+				"min": 4,
+				"max": 16
+			},
+			"unitWorth": 125
+		},
+
+		"cook_obj_farmersdelight_dog_food": {
+			"type": "item",
+			"content": "farmersdelight:dog_food",
+			"rarity": "UNCOMMON",
+			"amount": 
+			{
+				"min": 2,
+				"max": 16
+			},
+			"unitWorth": 245
+		},
+
+		"cook_obj_farmersdelight_dumplings": {
+			"type": "item",
+			"content": "farmersdelight:dumplings",
+			"rarity": "UNCOMMON",
+			"amount": 
+			{
+				"min": 2,
+				"max": 16
+			},
+			"unitWorth": 175
+		},
+
+		"cook_obj_farmersdelight_egg_sandwich": {
+			"type": "item",
+			"content": "farmersdelight:egg_sandwich",
+			"rarity": "UNCOMMON",
+			"amount": 
+			{
+				"min": 1,
+				"max": 6
+			},
+			"unitWorth": 300
+		},
+
+		"cook_obj_farmersdelight_fruit_salad": {
+			"type": "item",
+			"content": "farmersdelight:fruit_salad",
+			"rarity": "UNCOMMON",
+			"amount": 
+			{
+				"min": 1,
+				"max": 6
+			},
+			"unitWorth": 500
+		},
+
+		"cook_obj_farmersdelight_hamburger": {
+			"type": "item",
+			"content": "farmersdelight:hamburger",
+			"rarity": "UNCOMMON",
+			"amount": 
+			{
+				"min": 1,
+				"max": 6
+			},
+			"unitWorth": 350
+		},
+
+		"cook_obj_farmersdelight_honey_cookie": {
+			"type": "item",
+			"content": "farmersdelight:honey_cookie",
+			"rarity": "UNCOMMON",
+			"amount": 
+			{
+				"min": 24,
+				"max": 64
+			},
+			"unitWorth": 150
+		},
+
+		"cook_obj_farmersdelight_kelp_roll": {
+			"type": "item",
+			"content": "farmersdelight:kelp_roll",
+			"rarity": "UNCOMMON",
+			"amount": 
+			{
+				"min": 4,
+				"max": 16
+			},
+			"unitWorth": 175
+		},
+
+		"cook_obj_farmersdelight_melon_popsicle": {
+			"type": "item",
+			"content": "farmersdelight:melon_popsicle",
+			"rarity": "UNCOMMON",
+			"amount": 
+			{
+				"min": 2,
+				"max": 8
+			},
+			"unitWorth": 280
+		},
+
+		"cook_obj_farmersdelight_mixed_salad": {
+			"type": "item",
+			"content": "farmersdelight:mixed_salad",
+			"rarity": "UNCOMMON",
+			"amount": 
+			{
+				"min": 1,
+				"max": 6
+			},
+			"unitWorth": 125
+		},
+
+		"cook_obj_farmersdelight_mutton_wrap": {
+			"type": "item",
+			"content": "farmersdelight:mutton_wrap",
+			"rarity": "UNCOMMON",
+			"amount": 
+			{
+				"min": 1,
+				"max": 6
+			},
+			"unitWorth": 300
+		},
+
+		"cook_obj_farmersdelight_nether_salad": {
+			"type": "item",
+			"content": "farmersdelight:nether_salad",
+			"rarity": "UNCOMMON",
+			"amount": 
+			{
+				"min": 1,
+				"max": 6
+			},
+			"unitWorth": 300
+		},
+
+		"cook_obj_farmersdelight_salmon_roll": {
+			"type": "item",
+			"content": "farmersdelight:salmon_roll",
+			"rarity": "UNCOMMON",
+			"amount": 
+			{
+				"min": 4,
+				"max": 16
+			},
+			"unitWorth": 125
+		},
+
+		"cook_obj_farmersdelight_stuffed_potato": {
+			"type": "item",
+			"content": "farmersdelight:stuffed_potato",
+			"rarity": "UNCOMMON",
+			"amount": 
+			{
+				"min": 2,
+				"max": 8
+			},
+			"unitWorth": 125
+		},
+
+		"cook_obj_farmersdelight_sweet_berry_cookie": {
+			"type": "item",
+			"content": "farmersdelight:sweet_berry_cookie",
+			"rarity": "UNCOMMON",
+			"amount": 
+			{
+				"min": 24,
+				"max": 64
+			},
+			"unitWorth": 20
+		},
+
+		"cook_obj_farmersdelight_bacon_and_eggs": {
+			"type": "item",
+			"content": "farmersdelight:bacon_and_eggs",
+			"rarity": "RARE",
+			"amount": 
+			{
+				"min": 1,
+				"max": 6
+			},
+			"unitWorth": 280
+		},
+
+		"cook_obj_farmersdelight_baked_cod_stew": {
+			"type": "item",
+			"content": "farmersdelight:baked_cod_stew",
+			"rarity": "RARE",
+			"amount": 
+			{
+				"min": 1,
+				"max": 6
+			},
+			"unitWorth": 160
+		},
+
+		"cook_obj_farmersdelight_beef_stew": {
+			"type": "item",
+			"content": "farmersdelight:beef_stew",
+			"rarity": "RARE",
+			"amount": 
+			{
+				"min": 1,
+				"max": 6
+			},
+			"unitWorth": 200
+		},
+
+		"cook_obj_farmersdelight_chicken_soup": {
+			"type": "item",
+			"content": "farmersdelight:chicken_soup",
+			"rarity": "RARE",
+			"amount": 
+			{
+				"min": 1,
+				"max": 6
+			},
+			"unitWorth": 175
+		},
+
+		"cook_obj_farmersdelight_fish_stew": {
+			"type": "item",
+			"content": "farmersdelight:fish_stew",
+			"rarity": "RARE",
+			"amount": 
+			{
+				"min": 1,
+				"max": 6
+			},
+			"unitWorth": 225
+		},
+
+		"cook_obj_farmersdelight_fried_rice": {
+			"type": "item",
+			"content": "farmersdelight:fried_rice",
+			"rarity": "RARE",
+			"amount": 
+			{
+				"min": 1,
+				"max": 6
+			},
+			"unitWorth": 165
+		},
+
+		"cook_obj_farmersdelight_glow_berry_custard": {
+			"type": "item",
+			"content": "farmersdelight:glow_berry_custard",
+			"rarity": "RARE",
+			"amount": 
+			{
+				"min": 1,
+				"max": 6
+			},
+			"unitWorth": 320
+		},
+
+		"cook_obj_farmersdelight_grilled_salmon": {
+			"type": "item",
+			"content": "farmersdelight:grilled_salmon",
+			"rarity": "RARE",
+			"amount": 
+			{
+				"min": 1,
+				"max": 6
+			},
+			"unitWorth": 225
+		},
+
+		"cook_obj_farmersdelight_mushroom_rice": {
+			"type": "item",
+			"content": "farmersdelight:mushroom_rice",
+			"rarity": "RARE",
+			"amount": 
+			{
+				"min": 1,
+				"max": 6
+			},
+			"unitWorth": 375
+		},
+
+		"cook_obj_farmersdelight_noodle_soup": {
+			"type": "item",
+			"content": "farmersdelight:noodle_soup",
+			"rarity": "RARE",
+			"amount": 
+			{
+				"min": 1,
+				"max": 6
+			},
+			"unitWorth": 325
+		},
+
+		"cook_obj_farmersdelight_pasta_with_meatballs": {
+			"type": "item",
+			"content": "farmersdelight:pasta_with_meatballs",
+			"rarity": "RARE",
+			"amount": 
+			{
+				"min": 1,
+				"max": 6
+			},
+			"unitWorth": 350
+		},
+
+		"cook_obj_farmersdelight_pasta_with_mutton_chop": {
+			"type": "item",
+			"content": "farmersdelight:pasta_with_mutton_chop",
+			"rarity": "RARE",
+			"amount": 
+			{
+				"min": 1,
+				"max": 6
+			},
+			"unitWorth": 350
+		},
+
+		"cook_obj_farmersdelight_pumpkin_soup": {
+			"type": "item",
+			"content": "farmersdelight:pumpkin_soup",
+			"rarity": "RARE",
+			"amount": 
+			{
+				"min": 1,
+				"max": 6
+			},
+			"unitWorth": 200
+		},
+
+		"cook_obj_farmersdelight_ratatouille": {
+			"type": "item",
+			"content": "farmersdelight:ratatouille",
+			"rarity": "RARE",
+			"amount": 
+			{
+				"min": 1,
+				"max": 6
+			},
+			"unitWorth": 200
+		},
+
+		"cook_obj_farmersdelight_roasted_mutton_chops": {
+			"type": "item",
+			"content": "farmersdelight:roasted_mutton_chops",
+			"rarity": "RARE",
+			"amount": 
+			{
+				"min": 1,
+				"max": 6
+			},
+			"unitWorth": 245
+		},
+
+		"cook_obj_farmersdelight_squid_ink_pasta": {
+			"type": "item",
+			"content": "farmersdelight:squid_ink_pasta",
+			"rarity": "RARE",
+			"amount": 
+			{
+				"min": 1,
+				"max": 6
+			},
+			"unitWorth": 285
+		},
+
+		"cook_obj_farmersdelight_steak_and_potatoes": {
+			"type": "item",
+			"content": "farmersdelight:steak_and_potatoes",
+			"rarity": "RARE",
+			"amount": 
+			{
+				"min": 1,
+				"max": 6
+			},
+			"unitWorth": 300
+		},
+
+		"cook_obj_farmersdelight_vegetable_noodles": {
+			"type": "item",
+			"content": "farmersdelight:vegetable_noodles",
+			"rarity": "RARE",
+			"amount": 
+			{
+				"min": 1,
+				"max": 6
+			},
+			"unitWorth": 425
+		},
+
+		"cook_obj_farmersdelight_vegetable_soup": {
+			"type": "item",
+			"content": "farmersdelight:vegetable_soup",
+			"rarity": "RARE",
+			"amount": 
+			{
+				"min": 1,
+				"max": 6
+			},
+			"unitWorth": 175
+		},
+
+		"cook_obj_farmersdelight_rice_roll_medley_block": {
+			"type": "item",
+			"content": "farmersdelight:rice_roll_medley_block",
+			"rarity": "EPIC",
+			"amount": 
+			{
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 975
+		},
+
+		"cook_obj_farmersdelight_roast_chicken_block": {
+			"type": "item",
+			"content": "farmersdelight:roast_chicken_block",
+			"rarity": "EPIC",
+			"amount": 
+			{
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 600
+		},
+
+		"cook_obj_farmersdelight_shepherds_pie_block": {
+			"type": "item",
+			"content": "farmersdelight:shepherds_pie_block",
+			"rarity": "EPIC",
+			"amount": 
+			{
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 575
+		},
+
+		"cook_obj_farmersdelight_stuffed_pumpkin_block": {
+			"type": "item",
+			"content": "farmersdelight:stuffed_pumpkin_block",
+			"rarity": "EPIC",
+			"amount": 
+			{
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 525
+		},
+
+		"cook_obj_farmersdelight_apple_pie": {
+			"type": "item",
+			"content": "farmersdelight:apple_pie",
+			"rarity": "EPIC",
+			"amount": 
+			{
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 1200
+		},
+
+		"cook_obj_farmersdelight_chocolate_pie": {
+			"type": "item",
+			"content": "farmersdelight:chocolate_pie",
+			"rarity": "EPIC",
+			"amount": 
+			{
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 1000
+		},
+
+		"cook_obj_farmersdelight_honey_glazed_ham_block": {
+			"type": "item",
+			"content": "farmersdelight:honey_glazed_ham_block",
+			"rarity": "EPIC",
+			"amount": 
+			{
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 1500
+		},
+
+		"cook_obj_farmersdelight_horse_feed": {
+			"type": "item",
+			"content": "farmersdelight:horse_feed",
+			"rarity": "EPIC",
+			"amount": 
+			{
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 2000
+		},
+
+		"cook_obj_farmersdelight_sweet_berry_cheesecake": {
+			"type": "item",
+			"content": "farmersdelight:sweet_berry_cheesecake",
+			"rarity": "EPIC",
+			"amount": 
+			{
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 1000
+		}
+		
+	}
+
+}

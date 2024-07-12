@@ -1,0 +1,17 @@
+{
+    "bountiful.decree.arborist.name": "Arboriculture",
+
+    "bountiful.decree.cook.name": "Cooking",
+
+    "bountiful.decree.miner.name": "Mining",
+        "bountiful.entry.miner_obj_cm_catch_ground": "Catch Ground-Type Pokemon",
+        "bountiful.entry.miner_obj_cm_catch_rock": "Catch Rock-Type Pokemon",
+        "bountiful.entry.miner_obj_cm_catch_steel": "Catch Steel-Type Pokemon",
+
+    "bountiful.decree.slayer.name": "Monster Slaying",
+
+    "bountiful.decree.smith.name": "Smithing",
+    
+    "bountiful.decree.tailor.name": "Tailoring"
+
+}

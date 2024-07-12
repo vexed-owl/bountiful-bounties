@@ -1,0 +1,12 @@
+{
+	"objectives": 
+	[
+		"cook_objs",
+		"_all_objs"
+	],
+	"rewards": 
+	[
+		"cook_rews",
+		"_all_rews"
+	]
+}

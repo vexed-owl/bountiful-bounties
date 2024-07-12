@@ -1,0 +1,41 @@
+
+{
+	"replace": true,
+	"content": {
+
+		"farmer_obj_hay_block": {
+			"type": "item",
+			"content": "minecraft:hay_block",
+			"rarity": "UNCOMMON",
+			"amount": {
+				"min": 1,
+				"max": 8
+			},
+			"unitWorth": 450
+		},
+
+		"farmer_obj_pumpkin_seeds": {
+			"type": "item",
+			"content": "minecraft:pumpkin_seeds",
+			"rarity": "UNCOMMON",
+			"amount": {
+				"min": 2,
+				"max": 8
+			},
+			"unitWorth": 250
+		},
+
+		"farmer_obj_vex_sugar_cane": {
+			"type": "item",
+			"content": "minecraft:sugar_cane",
+			"rarity": "UNCOMMON",
+			"amount": {
+				"min": 4,
+				"max": 64
+			},
+			"unitWorth": 40
+		}
+
+	}
+
+}

@@ -1,0 +1,227 @@
+
+{
+	"requires": ["farmersdelight"],
+	"content": 
+	{
+
+		"farmer_obj_farmersdelight_cabbage_seeds": {
+			"type": "item",
+			"content": "farmersdelight:cabbage_seeds",
+			"amount": 
+			{
+				"min": 2,
+				"max": 32
+			},
+			"unitWorth": 25
+		},
+
+		"farmer_obj_farmersdelight_tomato_seeds": {
+			"type": "item",
+			"content": "farmersdelight:tomato_seeds",
+			"amount": 
+			{
+				"min": 2,
+				"max": 32
+			},
+			"unitWorth": 25
+		},
+
+		"farmer_obj_farmersdelight_onion": {
+			"type": "item",
+			"content": "farmersdelight:onion",
+			"amount": 
+			{
+				"min": 4,
+				"max": 48
+			},
+			"unitWorth": 40
+		},
+
+		"farmer_obj_farmersdelight_rice_panicle": {
+			"type": "item",
+			"content": "farmersdelight:rice_panicle",
+			"amount": 
+			{
+				"min": 4,
+				"max": 48
+			},
+			"unitWorth": 50
+		},
+
+		"farmer_obj_farmersdelight_cabbage": {
+			"type": "item",
+			"content": "farmersdelight:cabbage",
+			"amount": 
+			{
+				"min": 4,
+				"max": 48
+			},
+			"unitWorth": 40
+		},
+
+		"farmer_obj_farmersdelight_tomato": {
+			"type": "item",
+			"content": "farmersdelight:tomato",
+			"amount": 
+			{
+				"min": 4,
+				"max": 48
+			},
+			"unitWorth": 40
+		},
+
+		"farmer_obj_farmersdelight_rice": {
+			"type": "item",
+			"content": "farmersdelight:rice",
+			"amount": 
+			{
+				"min": 4,
+				"max": 48
+			},
+			"unitWorth": 35
+		},
+
+		"farmer_obj_farmersdelight_pumpkin_slice": {
+			"type": "item",
+			"content": "farmersdelight:pumpkin_slice",
+			"amount": 
+			{
+				"min": 4,
+				"max": 48
+			},
+			"unitWorth": 40
+		},
+
+		"farmer_obj_farmersdelight_cabbage_leaf": {
+			"type": "item",
+			"content": "farmersdelight:cabbage_leaf",
+			"amount": 
+			{
+				"min": 4,
+				"max": 48
+			},
+			"unitWorth": 20
+		},
+
+		"farmer_obj_farmersdelight_straw": {
+			"type": "item",
+			"content": "farmersdelight:straw",
+			"amount": 
+			{
+				"min": 4,
+				"max": 48
+			},
+			"unitWorth": 15
+		},
+
+		"farmer_obj_farmersdelight_carrot_crate": {
+			"type": "item",
+			"content": "farmersdelight:carrot_crate",
+			"rarity": "UNCOMMON",
+			"amount": 
+			{
+				"min": 1,
+				"max": 8
+			},
+			"unitWorth": 315
+		},
+
+		"farmer_obj_farmersdelight_potato_crate": {
+			"type": "item",
+			"content": "farmersdelight:potato_crate",
+			"rarity": "UNCOMMON",
+			"amount": 
+			{
+				"min": 1,
+				"max": 8
+			},
+			"unitWorth": 360
+		},
+
+		"farmer_obj_farmersdelight_beetroot_crate": {
+			"type": "item",
+			"content": "farmersdelight:beetroot_crate",
+			"rarity": "UNCOMMON",
+			"amount": 
+			{
+				"min": 1,
+				"max": 8
+			},
+			"unitWorth": 585
+		},
+
+		"farmer_obj_farmersdelight_cabbage_crate": {
+			"type": "item",
+			"content": "farmersdelight:cabbage_crate",
+			"rarity": "UNCOMMON",
+			"amount": 
+			{
+				"min": 1,
+				"max": 8
+			},
+			"unitWorth": 360
+		},
+
+		"farmer_obj_farmersdelight_tomato_crate": {
+			"type": "item",
+			"content": "farmersdelight:tomato_crate",
+			"rarity": "UNCOMMON",
+			"amount": 
+			{
+				"min": 1,
+				"max": 8
+			},
+			"unitWorth": 360
+		},
+
+		"farmer_obj_farmersdelight_onion_crate": {
+			"type": "item",
+			"content": "farmersdelight:onion_crate",
+			"rarity": "UNCOMMON",
+			"amount": 
+			{
+				"min": 1,
+				"max": 8
+			},
+			"unitWorth": 360
+		},
+
+		"farmer_obj_farmersdelight_rice_bale": {
+			"type": "item",
+			"content": "farmersdelight:rice_bale",
+			"rarity": "UNCOMMON",
+			"amount": 
+			{
+				"min": 1,
+				"max": 8
+			},
+			"unitWorth": 450
+		},
+
+		"farmer_obj_farmersdelight_rice_bag": {
+			"type": "item",
+			"content": "farmersdelight:rice_bag",
+			"rarity": "UNCOMMON",
+			"amount": 
+			{
+				"min": 1,
+				"max": 8
+			},
+			"unitWorth": 315
+		},
+
+		"farmer_obj_farmersdelight_straw_bale": {
+			"type": "item",
+			"content": "farmersdelight:straw_bale",
+			"rarity": "UNCOMMON",
+			"amount": 
+			{
+				"min": 1,
+				"max": 8
+			},
+			"unitWorth": 135
+		}
+
+	}
+
+}

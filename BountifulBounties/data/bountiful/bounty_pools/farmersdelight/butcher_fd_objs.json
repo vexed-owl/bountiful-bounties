@@ -1,0 +1,98 @@
+
+{
+	"requires": ["farmersdelight"],
+	"content": 
+	{
+		"butcher_obj_farmersdelight_bacon": {
+			"type": "item",
+			"content": "farmersdelight:bacon",
+			"amount": 
+			{
+				"min": 2,
+				"max": 16
+			},
+			"unitWorth": 70
+		},
+
+		"butcher_obj_farmersdelight_cod_slice": {
+			"type": "item",
+			"content": "farmersdelight:cod_slice",
+			"amount": 
+			{
+				"min": 2,
+				"max": 16
+			},
+			"unitWorth": 30
+		},
+
+		"butcher_obj_farmersdelight_chicken_cuts": {
+			"type": "item",
+			"content": "farmersdelight:chicken_cuts",
+			"amount": 
+			{
+				"min": 2,
+				"max": 16
+			},
+			"unitWorth": 35
+		},
+
+		"butcher_obj_farmersdelight_minced_beef": {
+			"type": "item",
+			"content": "farmersdelight:minced_beef",
+			"amount": 
+			{
+				"min": 2,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		"butcher_obj_farmersdelight_mutton_chops": {
+			"type": "item",
+			"content": "farmersdelight:mutton_chops",
+			"amount": 
+			{
+				"min": 2,
+				"max": 16
+			},
+			"unitWorth": 70
+		},
+
+		"butcher_obj_farmersdelight_salmon_slice": {
+			"type": "item",
+			"content": "farmersdelight:salmon_slice",
+			"amount": 
+			{
+				"min": 2,
+				"max": 16
+			},
+			"unitWorth": 35
+		},
+
+		"butcher_obj_farmersdelight_beef_patty": {
+			"type": "item",
+			"content": "farmersdelight:beef_patty",
+			"rarity": "UNCOMMON",
+			"amount": 
+			{
+				"min": 1,
+				"max": 8
+			},
+			"unitWorth": 75
+		},
+
+		"butcher_obj_farmersdelight_ham": {
+			"type": "item",
+			"content": "farmersdelight:ham",
+			"rarity": "UNCOMMON",
+			"amount": 
+			{
+				"min": 1,
+				"max": 4
+			},
+			"unitWorth": 145
+		}
+
+	}
+
+}
