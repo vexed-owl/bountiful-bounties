@@ -1,2 +1,2 @@
 # bountiful-bounties
-Tweaks and Compatibility for Bountiful and several mods.
+Tweaks for Bountiful and Compatibility for several mods.
