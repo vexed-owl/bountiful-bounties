@@ -3,10 +3,15 @@
 
     "bountiful.decree.cook.name": "Cooking",
 
+        "bountiful.entry.fisherman_obj_fish_up_any_common": "Fish Up Anything",
+        "bountiful.entry.fisherman_obj_fish_up_any_uncommon": "Fish Up Anything",
+        "bountiful.entry.fisherman_obj_fish_up_any_rare": "Fish Up Anything",
+        "bountiful.entry.fisherman_obj_fish_up_any_epic": "Fish Up Anything",
+
     "bountiful.decree.miner.name": "Mining",
-        "bountiful.entry.miner_obj_cm_catch_ground": "Catch Ground-Type Pokemon",
-        "bountiful.entry.miner_obj_cm_catch_rock": "Catch Rock-Type Pokemon",
-        "bountiful.entry.miner_obj_cm_catch_steel": "Catch Steel-Type Pokemon",
+        "bountiful.entry.miner_obj_cobblemon_catch_ground": "Catch Ground-Type Pokemon",
+        "bountiful.entry.miner_obj_cobblemon_catch_rock": "Catch Rock-Type Pokemon",
+        "bountiful.entry.miner_obj_cobblemon_catch_steel": "Catch Steel-Type Pokemon",
 
     "bountiful.decree.slayer.name": "Monster Slaying",
 

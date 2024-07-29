@@ -1,0 +1,16 @@
+{
+	"objectives": 
+	[
+		"leatherer_objs",
+        "shepherd_objs",
+        "tailor_cobblemon_objs",
+		"_all_objs"
+	],
+	"rewards": 
+	[
+		"leatherer_rews",
+		"shepherd_rews",
+        "tailor_cobblemon_rews",
+		"_all_rews"
+	]
+}

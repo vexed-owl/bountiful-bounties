@@ -1,0 +1,87 @@
+{
+    "requires": ["cobblemon"],
+	"content": 
+
+	{
+
+    "miner_obj_cobblemon_hard_stone": {
+			"type": "item",
+			"content": "cobblemon:hard_stone",
+      "rarity": "UNCOMMON",
+			"amount": 
+      {
+				"min": 2,
+				"max": 16
+			},
+			"unitWorth": 75
+		},
+
+    "miner_obj_cobblemon_smooth_rock": {
+			"type": "item",
+			"content": "cobblemon:smooth_rock",
+      "rarity": "UNCOMMON",
+			"amount": 
+      {
+				"min": 1,
+				"max": 8
+			},
+			"unitWorth": 1000
+		},
+
+    "miner_obj_cobblemon_catch_rock": {
+        "type": "criteria",
+        "rarity": "RARE",
+        "timeMult": 3.0,
+        "icon": "minecraft:knowledge_book",
+        "content": "cobblemon:catch_pokemon",
+        "conditions": 
+          {
+            "type": "rock"
+          },
+        "amount": 
+          {
+            "min": 1,
+            "max": 4
+          },
+        "unitWorth": 250
+      },
+
+      "miner_obj_cobblemon_catch_ground": {
+        "type": "criteria",
+        "rarity": "RARE",
+        "timeMult": 3.0,
+        "icon": "minecraft:knowledge_book",
+        "content": "cobblemon:catch_pokemon",
+        "conditions": 
+          {
+            "type": "ground"
+          },
+        "amount": 
+          {
+            "min": 1,
+            "max": 4
+          },
+        "unitWorth": 250
+      },
+
+      "miner_obj_cobblemon_catch_steel": {
+        "type": "criteria",
+        "rarity": "RARE",
+        "timeMult": 3.0,
+        "icon": "minecraft:knowledge_book",
+        "content": "cobblemon:catch_pokemon",
+        "conditions": 
+          {
+            "type": "steel"
+          },
+        "amount": 
+          {
+            "min": 1,
+            "max": 4
+          },
+        "unitWorth": 275
+      }
+
+	}
+
+}

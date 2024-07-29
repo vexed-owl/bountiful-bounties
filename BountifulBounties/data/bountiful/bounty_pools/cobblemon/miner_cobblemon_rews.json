@@ -1,0 +1,260 @@
+
+{
+    "requires": ["cobblemon"],
+	"content": 
+    {
+
+        "miner_cobblemon_rew_slate_ball": {
+            "type": "item",
+            "content": "cobblemon:slate_ball",
+            "amount": 
+            {
+                "min": 1,
+                "max": 4
+            },
+            "unitWorth": 250
+        },
+
+        "miner_rew_cobblemon_hard_stone": {
+			"type": "item",
+			"content": "cobblemon:hard_stone",
+             "rarity": "UNCOMMON",
+			"amount": 
+            {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 100
+		},
+
+        "miner_cobblemon_rew_heavy_ball": {
+            "type": "item",
+            "content": "cobblemon:heavy_ball",
+            "rarity": "UNCOMMON",
+            "amount": 
+            {
+                "min": 1,
+                "max": 4
+            },
+            "unitWorth": 375
+        },
+
+        "miner_cobblemon_rew_dusk_ball": {
+            "type": "item",
+            "content": "cobblemon:dusk_ball",
+            "rarity": "RARE",
+            "amount": 
+            {
+                "min": 1,
+                "max": 4
+            },
+            "unitWorth": 500
+        },
+
+        "miner_rew_cobblemon_smooth_rock": {
+			"type": "item",
+			"content": "cobblemon:smooth_rock",
+             "rarity": "RARE",
+			"amount": 
+            {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 100
+		},
+
+        "miner_rew_cobblemon_black_augurite": {
+			"type": "item",
+			"content": "cobblemon:black_augurite",
+             "rarity": "EPIC",
+			"amount": 
+            {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 4000
+		},
+
+        "miner_rew_cobblemon_damp_rock": {
+			"type": "item",
+			"content": "cobblemon:damp_rock",
+             "rarity": "EPIC",
+			"amount": 
+            {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 4250
+		},
+
+        "miner_rew_cobblemon_dawn_stone": {
+			"type": "item",
+			"content": "cobblemon:dawn_stone",
+             "rarity": "EPIC",
+			"amount": 
+            {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 4000
+		},
+
+        "miner_rew_cobblemon_dusk_stone": {
+			"type": "item",
+			"content": "cobblemon:dusk_stone",
+             "rarity": "EPIC",
+			"amount": 
+            {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 4000
+		},
+
+        "miner_rew_cobblemon_fire_stone": {
+			"type": "item",
+			"content": "cobblemon:fire_stone",
+             "rarity": "EPIC",
+			"amount": 
+            {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 4000
+		},
+
+        "miner_rew_cobblemon_float_stone": {
+			"type": "item",
+			"content": "cobblemon:float_stone",
+             "rarity": "EPIC",
+			"amount": 
+            {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 4000
+		},
+
+        "miner_rew_cobblemon_heat_rock": {
+			"type": "item",
+			"content": "cobblemon:heat_rock",
+             "rarity": "EPIC",
+			"amount": 
+            {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 4500
+		},
+
+        "miner_rew_cobblemon_ice_stone": {
+			"type": "item",
+			"content": "cobblemon:ice_stone",
+             "rarity": "EPIC",
+			"amount": 
+            {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 4000
+		},
+
+        "miner_rew_cobblemon_icy_rock": {
+			"type": "item",
+			"content": "cobblemon:icy_rock",
+             "rarity": "EPIC",
+			"amount": 
+            {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 4500
+		},
+
+        "miner_rew_cobblemon_leaf_stone": {
+			"type": "item",
+			"content": "cobblemon:leaf_stone",
+             "rarity": "EPIC",
+			"amount": 
+            {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 4000
+		},
+
+        "miner_rew_cobblemon_moon_stone": {
+			"type": "item",
+			"content": "cobblemon:moon_stone",
+             "rarity": "EPIC",
+			"amount": 
+            {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 4000
+		},
+
+        "miner_rew_cobblemon_oval_stone": {
+			"type": "item",
+			"content": "cobblemon:oval_stone",
+             "rarity": "EPIC",
+			"amount": 
+            {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 4000
+		},
+
+        "miner_rew_cobblemon_shiny_stone": {
+			"type": "item",
+			"content": "cobblemon:shiny_stone",
+             "rarity": "EPIC",
+			"amount": 
+            {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 4000
+		},
+
+        "miner_rew_cobblemon_sun_stone": {
+			"type": "item",
+			"content": "cobblemon:sun_stone",
+             "rarity": "EPIC",
+			"amount": 
+            {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 4000
+		},
+
+        "miner_rew_cobblemon_thunder_stone": {
+			"type": "item",
+			"content": "cobblemon:thunder_stone",
+             "rarity": "EPIC",
+			"amount": 
+            {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 4000
+		},
+
+        "miner_rew_cobblemon_water_stone": {
+			"type": "item",
+			"content": "cobblemon:water_stone",
+             "rarity": "EPIC",
+			"amount": 
+            {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 4000
+		}
+
+	}
+
+}

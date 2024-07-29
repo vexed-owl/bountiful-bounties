@@ -1,0 +1,152 @@
+{
+	"requires": ["cobblemon"],
+	"content": 
+	{
+
+        "smith_obj_cobblemon_black_glasses": {
+			"type": "item",
+			"content": "cobblemon:black_glasses",
+            "rarity": "RARE",
+			"amount": 
+            {
+				"min": 1,
+				"max": 3
+			},
+			"unitWorth": 3500
+		},
+
+        "smith_obj_cobblemon_iron_ball": {
+			"type": "item",
+			"content": "cobblemon:iron_ball",
+            "rarity": "RARE",
+			"amount": 
+            {
+				"min": 1,
+				"max": 2
+			},
+			"unitWorth": 8000
+		},
+
+        "smith_obj_cobblemon_protector": {
+			"type": "item",
+			"content": "cobblemon:protector",
+            "rarity": "RARE",
+			"amount": 
+            {
+				"min": 1,
+				"max": 2
+			},
+			"unitWorth": 6300
+		},
+
+        "smith_obj_cobblemon_safety_goggles": {
+			"type": "item",
+			"content": "cobblemon:safety_goggles",
+            "rarity": "RARE",
+			"amount": 
+            {
+				"min": 1,
+				"max": 6
+			},
+			"unitWorth": 1250
+		},
+
+		"smith_obj_cobblemon_soothe_bell": {
+			"type": "item",
+			"content": "cobblemon:soothe_bell",
+            "rarity": "RARE",
+			"amount": 
+            {
+				"min": 1,
+				"max": 3
+			},
+			"unitWorth": 3000
+		},
+
+        "smith_obj_cobblemon_wise_glasses": {
+			"type": "item",
+			"content": "cobblemon:wise_glasses",
+            "rarity": "RARE",
+			"amount": 
+            {
+				"min": 1,
+				"max": 4
+			},
+			"unitWorth": 3000
+		},
+
+   	 	"smith_obj_cobblemon_power_anklet": {
+			"type": "item",
+			"content": "cobblemon:power_anklet",
+      		"rarity": "EPIC",
+			"amount": 
+      		{
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 8500
+		},
+
+   		"smith_obj_cobblemon_power_band": {
+			"type": "item",
+			"content": "cobblemon:power_band",
+      		"rarity": "EPIC",
+			"amount": 
+      		{
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 8500
+		},
+
+    	"smith_obj_cobblemon_power_belt": {
+			"type": "item",
+			"content": "cobblemon:power_belt",
+      		"rarity": "EPIC",
+			"amount": 
+      		{
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 8500
+		},
+
+    	"smith_obj_cobblemon_power_bracer": {
+			"type": "item",
+			"content": "cobblemon:power_bracer",
+      		"rarity": "EPIC",
+			"amount": 
+      		{
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 8500
+		},
+
+    	"smith_obj_cobblemon_power_lens": {
+			"type": "item",
+			"content": "cobblemon:power_lens",
+      		"rarity": "EPIC",
+			"amount": 
+      		{
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 8500
+		},
+
+		"smith_obj_cobblemon_power_weight": {
+			"type": "item",
+			"content": "cobblemon:power_weight",
+      		"rarity": "EPIC",
+			"amount": 
+      		{
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 8500
+		}
+
+
+	}
+}

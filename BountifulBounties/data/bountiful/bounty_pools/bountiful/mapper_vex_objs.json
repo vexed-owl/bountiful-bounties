@@ -1,0 +1,20 @@
+{
+    "content": {
+
+		"mapper_obj_vex_brush": {
+			"type": "item",
+			"content": "minecraft:brush",
+            "rarity": "RARE",
+			"amount": 
+			{
+				"min": 1,
+				"max": 4
+			},
+			"unitWorth": 850
+		}
+
+
+	}
+
+
+}

@@ -1,0 +1,195 @@
+{
+	"requires": ["cobblemon"],
+	"content": 
+	{
+
+        "tailor_rew_cobblemon_black_belt": {
+			"type": "item",
+			"content": "cobblemon:black_belt",
+            "rarity": "RARE",
+			"amount": 
+            {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 200,
+			"forbids": 
+			[
+				{
+					"type": "item",
+					"content": "cobblemon:black_belt"
+				}
+			]
+		},
+
+        "tailor_rew_cobblemon_silk_scarf": {
+			"type": "item",
+			"content": "cobblemon:silk_scarf",
+            "rarity": "RARE",
+			"amount": 
+            {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 500,
+			"forbids": 
+			[
+				{
+					"type": "item",
+					"content": "cobblemon:silk_scarf"
+				}
+			]
+		},
+
+        "tailor_rew_cobblemon_choice_band": {
+			"type": "item",
+			"content": "cobblemon:choice_band",
+            "rarity": "EPIC",
+			"amount": 
+            {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 5750,
+			"forbids": 
+			[
+				{
+					"type": "item",
+					"content": "cobblemon:choice_band"
+				}
+			]
+		},
+
+        "tailor_rew_cobblemon_choice_scarf": {
+			"type": "item",
+			"content": "cobblemon:choice_scarf",
+            "rarity": "EPIC",
+			"amount": 
+            {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 15000
+		},
+
+        "tailor_rew_cobblemon_covert_cloak": {
+			"type": "item",
+			"content": "cobblemon:covert_cloak",
+            "rarity": "EPIC",
+			"amount": 
+            {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 2000
+		},
+
+        "tailor_rew_cobblemon_destiny_knot": {
+			"type": "item",
+			"content": "cobblemon:destiny_knot",
+            "rarity": "EPIC",
+			"amount": 
+            {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 2500
+		},
+
+        "tailor_rew_cobblemon_expert_belt": {
+			"type": "item",
+			"content": "cobblemon:expert_belt",
+            "rarity": "EPIC",
+			"amount": 
+            {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 1150,
+			"forbids": 
+			[
+				{
+					"type": "item",
+					"content": "cobblemon:expert_belt"
+				}
+			]
+		},
+
+        "tailor_rew_cobblemon_focus_band": {
+			"type": "item",
+			"content": "cobblemon:focus_band",
+            "rarity": "EPIC",
+			"amount": 
+            {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 2500,
+			"forbids": 
+			[
+				{
+					"type": "item",
+					"content": "cobblemon:focus_band"
+				}
+			]
+		},
+
+        "tailor_rew_cobblemon_focus_sash": {
+			"type": "item",
+			"content": "cobblemon:focus_sash",
+            "rarity": "EPIC",
+			"amount": 
+            {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 1750,
+			"forbids": 
+			[
+				{
+					"type": "item",
+					"content": "cobblemon:focus_sash"
+				}
+			]
+		},
+
+        "tailor_rew_cobblemon_muscle_band": {
+			"type": "item",
+			"content": "cobblemon:muscle_band",
+            "rarity": "EPIC",
+			"amount": 
+            {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 3000,
+			"forbids": 
+			[
+				{
+					"type": "item",
+					"content": "cobblemon:muscle_band"
+				}
+			]
+		},
+
+        "tailor_rew_cobblemon_reaper_cloth": {
+			"type": "item",
+			"content": "cobblemon:reaper_cloth",
+            "rarity": "EPIC",
+			"amount": 
+            {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 4000,
+			"forbids": 
+			[
+				{
+					"type": "item",
+					"content": "cobblemon:reaper_cloth"
+				}
+			]
+		}
+
+	}
+}

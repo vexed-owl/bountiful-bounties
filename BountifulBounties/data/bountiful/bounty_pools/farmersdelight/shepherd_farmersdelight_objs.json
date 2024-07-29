@@ -1,0 +1,20 @@
+
+{
+	"requires": ["farmersdelight"],
+	"content": 
+	{
+
+		"shepherd_obj_farmersdelight_canvas": {
+			"type": "item",
+			"content": "farmersdelight:canvas",
+			"amount": 
+			{
+				"min": 4,
+				"max": 24
+			},
+			"unitWorth": 60
+		}
+
+	}
+
+}

@@ -1,0 +1,117 @@
+
+{
+	"requires": ["farmersdelight"],
+	"content": 
+	{
+
+		"cook_rew_farmersdelight_milk_bottle": {
+			"type": "item",
+			"content": "farmersdelight:milk_bottle",
+			"amount": 
+			{
+				"min": 4,
+				"max": 24
+			},
+			"unitWorth": 55
+		},
+
+		"cook_rew_farmersdelight_wheat_dough": {
+			"type": "item",
+			"content": "farmersdelight:wheat_dough",
+			"amount": 
+			{
+				"min": 1,
+				"max": 8
+			},
+			"unitWorth": 150
+		},
+
+		"cook_rew_farmersdelight_raw_pasta": {
+			"type": "item",
+			"content": "farmersdelight:raw_pasta",
+			"rarity": "UNCOMMON",
+			"amount": 
+			{
+				"min": 1,
+				"max": 8
+			},
+			"unitWorth": 175
+		},
+
+		"cook_rew_farmersdelight_tomato_sauce": {
+			"type": "item",
+			"content": "farmersdelight:tomato_sauce",
+			"rarity": "UNCOMMON",
+			"amount": 
+			{
+				"min": 1,
+				"max": 8
+			},
+			"unitWorth": 100
+		},
+
+		"cook_rew_farmersdelight_pie_crust": {
+			"type": "item",
+			"content": "farmersdelight:pie_crust",
+			"rarity": "RARE",
+			"amount": 
+			{
+				"min": 1,
+				"max": 4
+			},
+			"unitWorth": 200
+		},
+
+		"cook_rew_farmersdelight_iron_knife": {
+			"type": "item",
+			"content": "farmersdelight:iron_knife",
+			"rarity": "UNCOMMON",
+			"amount": 
+			{
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 1000,
+			"weightMult": 0.35
+		},
+
+		"cook_rew_farmersdelight_gold_knife": {
+			"type": "item",
+			"content": "farmersdelight:gold_knife",
+			"rarity": "RARE",
+			"amount": 
+			{
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 1250,
+			"weightMult": 0.35
+		},
+
+		"cook_rew_farmersdelight_diamond_knife": {
+			"type": "item",
+			"content": "farmersdelight:diamond_knife",
+			"rarity": "EPIC",
+			"amount": 
+			{
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 4000
+		},
+
+		"cook_rew_farmersdelight_netherite_knife": {
+			"type": "item",
+			"content": "farmersdelight:netherite_knife",
+			"rarity": "LEGENDARY",
+			"amount": 
+			{
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 4000
+		}
+
+	}
+
+}

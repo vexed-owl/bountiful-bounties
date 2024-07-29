@@ -192,6 +192,66 @@
 			"unitWorth": 75
 		},
 
+		"miner_obj_polished_andesite": {
+			"type": "item",
+			"rarity": "UNCOMMON",
+			"content": "minecraft:polished_andesite",
+			"amount": 
+			{
+				"min": 4,
+				"max": 48
+			},
+			"unitWorth": 140
+		},
+
+		"miner_obj_polished_blackstone": {
+			"type": "item",
+			"rarity": "UNCOMMON",
+			"content": "minecraft:polished_blackstone",
+			"amount": 
+			{
+				"min": 4,
+				"max": 48
+			},
+			"unitWorth": 200
+		},
+
+		"miner_obj_polished_deepslate": {
+			"type": "item",
+			"rarity": "UNCOMMON",
+			"content": "minecraft:polished_deepslate",
+			"amount": 
+			{
+				"min": 4,
+				"max": 48
+			},
+			"unitWorth": 120
+		},
+
+		"miner_obj_polished_diorite": {
+			"type": "item",
+			"rarity": "UNCOMMON",
+			"content": "minecraft:polished_diorite",
+			"amount": 
+			{
+				"min": 4,
+				"max": 48
+			},
+			"unitWorth": 140
+		},
+
+		"miner_obj_polished_granite": {
+			"type": "item",
+			"rarity": "UNCOMMON",
+			"content": "minecraft:polished_granite",
+			"amount": 
+			{
+				"min": 4,
+				"max": 48
+			},
+			"unitWorth": 140
+		},
+
 		"miner_obj_smooth_basalt": {
 			"type": "item",
 			"rarity": "UNCOMMON",
@@ -204,6 +264,53 @@
 			"unitWorth": 75
 		},
 
+		"miner_obj_smooth_red_sandstone": {
+			"type": "item",
+			"rarity": "UNCOMMON",
+			"content": "minecraft:smooth_red_sandstone",
+			"amount": 
+			{
+				"min": 4,
+				"max": 48
+			},
+			"unitWorth": 100
+		},
+
+		"miner_obj_smooth_sandstone": {
+			"type": "item",
+			"rarity": "UNCOMMON",
+			"content": "minecraft:smooth_sandstone",
+			"amount": 
+			{
+				"min": 4,
+				"max": 48
+			},
+			"unitWorth": 100
+		},
+
+		"miner_obj_smooth_stone": {
+			"type": "item",
+			"rarity": "UNCOMMON",
+			"content": "minecraft:smooth_red_stone",
+			"amount": 
+			{
+				"min": 4,
+				"max": 48
+			},
+			"unitWorth": 50
+		},
+
+		"miner_obj_amethyst_block": {
+			"type": "item",
+			"rarity": "RARE",
+			"content": "minecraft:amethyst_block",
+			"amount": 
+			{
+				"min": 1,
+				"max": 8
+			},
+			"unitWorth": 1600
+		},
 
 		"miner_obj_amethyst_shard": {
 			"type": "item",
@@ -229,6 +336,41 @@
 			"unitWorth": 750
 		},
 
+		"miner_obj_quartz": {
+			"type": "item",
+			"rarity": "RARE",
+			"content": "minecraft:quartz",
+			"amount": 
+			{
+				"min": 2,
+				"max": 16
+			},
+			"unitWorth": 400
+		},
+
+		"miner_obj_quartz_block": {
+			"type": "item",
+			"rarity": "RARE",
+			"content": "minecraft:quartz_block",
+			"amount": 
+			{
+				"min": 1,
+				"max": 4
+			},
+			"unitWorth": 1600
+		},
+
+		"miner_obj_smooth_quartz": {
+			"type": "item",
+			"rarity": "RARE",
+			"content": "minecraft:ssmooth_quartz",
+			"amount": 
+			{
+				"min": 1,
+				"max": 4
+			},
+			"unitWorth": 2000
+		},
 
 		"miner_obj_diamond": {
 			"type": "item",
@@ -252,18 +394,6 @@
 				"max": 3
 			},
 			"unitWorth": 6750
-		},
-
-		"miner_obj_amethyst_block": {
-			"type": "item",
-			"rarity": "RARE",
-			"content": "minecraft:amethyst_block",
-			"amount": 
-			{
-				"min": 1,
-				"max": 8
-			},
-			"unitWorth": 1600
 		}
 
 	}

@@ -1,0 +1,12 @@
+{
+	"objectives": 
+	[
+		"slayer_objs"
+	],
+	"rewards": 
+	[
+		"slayer_rews",
+        "slayer_cobblemon_rews",
+		"_all_rews"
+	]
+}

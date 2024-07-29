@@ -1,0 +1,69 @@
+
+{
+	"requires": ["farmersdelight"],
+	"content": 
+	{
+
+		"butcher_rew_farmersdelight_smoked_ham": {
+			"type": "item",
+			"content": "farmersdelight:smoked_ham",
+			"rarity": "UNCOMMON",
+			"amount": 
+			{
+				"min": 1,
+				"max": 4
+			},
+			"unitWorth": 200
+		},
+
+		"butcher_rew_farmersdelight_iron_knife": {
+			"type": "item",
+			"content": "farmersdelight:iron_knife",
+			"rarity": "UNCOMMON",
+			"amount": 
+			{
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 1000
+		},
+
+		"butcher_rew_farmersdelight_gold_knife": {
+			"type": "item",
+			"content": "farmersdelight:gold_knife",
+			"rarity": "RARE",
+			"amount": 
+			{
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 1250
+		},
+
+		"butcher_rew_farmersdelight_diamond_knife": {
+			"type": "item",
+			"content": "farmersdelight:diamond_knife",
+			"rarity": "EPIC",
+			"amount": 
+			{
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 4000
+		},
+
+		"butcher_rew_farmersdelight_netherite_knife": {
+			"type": "item",
+			"content": "farmersdelight:netherite_knife",
+			"rarity": "LEGENDARY",
+			"amount": 
+			{
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 4000
+		}
+
+	}
+
+}

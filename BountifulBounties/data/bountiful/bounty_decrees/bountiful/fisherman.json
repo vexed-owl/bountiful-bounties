@@ -2,12 +2,14 @@
 	"objectives": 
 	[
 		"fisherman_objs",
+		"fisherman_vex_objs",
 		"_all_objs"
 	],
 	"rewards": 
 	[
 		"fisherman_rews",
-		"_all_rews",
-		"fisherman_vex_rews"
+		"fisherman_vex_rews",
+		"_all_rews"
+		
 	]
 }

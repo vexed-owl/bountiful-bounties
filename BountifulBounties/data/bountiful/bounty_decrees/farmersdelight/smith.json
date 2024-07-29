@@ -1,0 +1,18 @@
+{
+	"objectives": 
+	[
+		"armorer_objs",
+        "toolsmith_objs",
+		"_all_objs",
+		"_metal_objs"
+	],
+	"rewards": 
+	[
+		"armorer_rews",
+        "toolsmith_rews",
+        "smith_farmersdelight_rews",
+		"_all_rews",
+		"_gardening_rews",
+		"_equip_rews"
+	]
+}

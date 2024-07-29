@@ -1,0 +1,103 @@
+{
+	"requires": ["cobblemon"],
+	"content": 
+	{
+
+        "tailor_obj_cobblemon_black_belt": {
+			"type": "item",
+			"content": "cobblemon:black_belt",
+            "rarity": "UNCOMMON",
+			"amount": 
+            {
+				"min": 2,
+				"max": 8
+			},
+			"unitWorth": 200
+		},
+
+        "tailor_obj_cobblemon_silk_scarf": {
+			"type": "item",
+			"content": "cobblemon:silk_scarf",
+            "rarity": "UNCOMMON",
+			"amount": 
+            {
+				"min": 2,
+				"max": 8
+			},
+			"unitWorth": 500
+		},
+
+        "tailor_obj_cobblemon_choice_band": {
+			"type": "item",
+			"content": "cobblemon:choice_band",
+            "rarity": "RARE",
+			"amount": 
+            {
+				"min": 1,
+				"max": 2
+			},
+			"unitWorth": 5500
+		},
+
+        "tailor_obj_cobblemon_expert_belt": {
+			"type": "item",
+			"content": "cobblemon:expert_belt",
+            "rarity": "RARE",
+			"amount": 
+            {
+				"min": 1,
+				"max": 6
+			},
+			"unitWorth": 1000
+		},
+
+        "tailor_obj_cobblemon_focus_band": {
+			"type": "item",
+			"content": "cobblemon:focus_band",
+            "rarity": "RARE",
+			"amount": 
+            {
+				"min": 1,
+				"max": 4
+			},
+			"unitWorth": 2250
+		},
+
+        "tailor_obj_cobblemon_focus_sash": {
+			"type": "item",
+			"content": "cobblemon:focus_sash",
+            "rarity": "RARE",
+			"amount": 
+            {
+				"min": 1,
+				"max": 6
+			},
+			"unitWorth": 1500
+		},
+
+        "tailor_obj_cobblemon_muscle_band": {
+			"type": "item",
+			"content": "cobblemon:muscle_band",
+            "rarity": "RARE",
+			"amount": 
+            {
+				"min": 1,
+				"max": 4
+			},
+			"unitWorth": 2500
+		},
+
+        "tailor_obj_cobblemon_reaper_cloth": {
+			"type": "item",
+			"content": "cobblemon:reaper_cloth",
+            "rarity": "RARE",
+			"amount": 
+            {
+				"min": 1,
+				"max": 4
+			},
+			"unitWorth": 3500
+		}
+
+	}
+}

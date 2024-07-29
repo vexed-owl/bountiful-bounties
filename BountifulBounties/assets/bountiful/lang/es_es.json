@@ -3,16 +3,20 @@
 
     "bountiful.decree.cook.name": "Cocina",
 
+        "bountiful.entry.fisherman_obj_fish_up_any_common": "Pescar Cualquier Cosa",
+        "bountiful.entry.fisherman_obj_fish_up_any_uncommon": "Pescar Cualquier Cosa",
+        "bountiful.entry.fisherman_obj_fish_up_any_rare": "Pescar Cualquier Cosa",
+        "bountiful.entry.fisherman_obj_fish_up_any_epic": "Pescar Cualquier Cosa",
+
     "bountiful.decree.miner.name": "Minería",
-        "bountiful.entry.miner_obj_cm_catch_ground": "Atrapar Pokemon Tipo Tierra",
-        "bountiful.entry.miner_obj_cm_catch_rock": "Atrapar Pokemon Tipo Roca",
-        "bountiful.entry.miner_obj_cm_catch_steel": "Atrapar Pokemon Tipo Acero",
+        "bountiful.entry.miner_obj_cobblemon_catch_ground": "Atrapar Pokemon Tipo Tierra",
+        "bountiful.entry.miner_obj_cobblemon_catch_rock": "Atrapar Pokemon Tipo Roca",
+        "bountiful.entry.miner_obj_cobblemon_catch_steel": "Atrapar Pokemon Tipo Acero",
 
     "bountiful.decree.slayer.name": "Matando Monstruos",
 
     "bountiful.decree.smith.name": "Herrería",
     
-    "bountiful.decree.tailor.name": "Sastrería",
+    "bountiful.decree.tailor.name": "Sastrería"
 
-            "bountiful.entry.farmer_rew_cobblemon_mints_wildcard": "Menta Aleatoria"
 }

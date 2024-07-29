@@ -3,12 +3,12 @@
 	[
 		"miner_objs",
 		"_all_objs",
-		"miner_cm_objs"
+		"miner_cobblemon_objs"
 	],
 	"rewards": 
 	[
 		"miner_rews",
 		"_all_rews",
-		"miner_cm_rews"
+		"miner_cobblemon_rews"
 	]
 }

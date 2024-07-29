@@ -1,0 +1,63 @@
+{
+    "content": {
+
+        "fisherman_obj_fish_up_any_common": {
+            "type": "criteria",
+            "content": "minecraft:fishing_rod_hooked",
+			"timeMult": 2.0,
+            "conditions": {},
+            "amount": 
+            {
+                "min": 4,
+                "max": 16
+            },
+            "unitWorth": 250
+        },
+
+        "fisherman_obj_fish_up_any_uncommon": {
+            "type": "criteria",
+            "content": "minecraft:fishing_rod_hooked",
+            "timeMult": 2.0,
+            "rarity": "UNCOMMON",
+            "conditions": {},
+            "amount": 
+            {
+                "min": 6,
+                "max": 36
+            },
+            "unitWorth": 250
+        },
+
+        "fisherman_obj_fish_up_any_rare": {
+            "type": "criteria",
+            "content": "minecraft:fishing_rod_hooked",
+            "timeMult": 3.0,
+            "rarity": "RARE",
+            "conditions": {},
+            "amount": 
+            {
+                "min": 8,
+                "max": 48
+            },
+            "unitWorth": 275
+        },
+
+        "fisherman_obj_fish_up_any_epic": {
+            "type": "criteria",
+            "content": "minecraft:fishing_rod_hooked",
+            "timeMult": 3.0,
+            "rarity": "EPIC",
+            "conditions": {},
+            "amount": 
+            {
+                "min": 12,
+                "max": 64
+            },
+            "unitWorth": 275
+        }
+
+
+	}
+
+
+}
