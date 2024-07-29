@@ -1,10 +1,12 @@
 {
-	"objectives": [
+	"objectives": 
+	[
 		"shepherd_objs",
-		"_all_objs",
-		"shepherd_fd_objs"
+		"shepherd_farmersdelight_objs",
+		"_all_objs"
 	],
-	"rewards": [
+	"rewards": 
+	[
 		"shepherd_rews",
 		"_all_rews"
 	]

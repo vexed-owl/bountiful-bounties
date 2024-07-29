@@ -1,10 +1,10 @@
 {
 	"objectives": 
 	[
-		"cook_fd_objs"
+		"cook_farmersdelight_objs"
 	],
 	"rewards": 
 	[
-		"cook_fd_rews"
+		"cook_farmersdelight_rews"
 	]
 }

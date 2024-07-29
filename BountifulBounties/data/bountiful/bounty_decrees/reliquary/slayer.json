@@ -6,7 +6,7 @@
 	"rewards": 
 	[
 		"slayer_rews",
-		"_all_rews",
-		"slayer_reliq_rews"
+		"slayer_reliquary_rews",
+		"_all_rews"
 	]
 }

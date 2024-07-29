@@ -2,14 +2,14 @@
 	"objectives": 
 	[
 		"farmer_objs",
-		"_all_objs",
-		"farmer_fd_objs"
+		"farmer_farmersdelight_objs",
+		"_all_objs"
 	],
 	"rewards": 
 	[
 		"farmer_rews",
+		"farmer_farmersdelight_rews",
 		"_all_rews",
-		"_gardening_rews",
-		"farmer_fd_rews"
+		"_gardening_rews"
 	]
 }

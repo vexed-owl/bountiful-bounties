@@ -1,0 +1,19 @@
+{
+	"requires": ["cobblemon","pokefood"],
+	"content": 
+    {
+
+        "shepherd_obj_pokefood_cloth": {
+            "type": "item",
+            "content": "pokefood:cloth",
+            "amount": 
+            {
+                "min": 4,
+                "max": 24
+            },
+            "unitWorth": 300
+        }
+
+    }
+
+}

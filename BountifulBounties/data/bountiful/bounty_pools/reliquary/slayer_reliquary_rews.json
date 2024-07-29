@@ -1,0 +1,178 @@
+{
+	"requires": ["reliquary"],
+	"content": 
+    {
+
+        "slayer_rew_reliquary_chelicerae": {
+            "type": "item",
+            "content": "reliquary:chelicerae",
+            "rarity": "UNCOMMON",
+            "amount": 
+            {
+                "min": 1,
+                "max": 3
+            },
+            "unitWorth": 450
+        },
+
+        "slayer_rew_reliquary_rib_bone": {
+            "type": "item",
+            "content": "reliquary:rib_bone",
+            "rarity": "UNCOMMON",
+            "amount": 
+            {
+                "min": 1,
+                "max": 3
+            },
+            "unitWorth": 300
+        },
+
+        "slayer_rew_reliquary_zombie_heart": {
+            "type": "item",
+            "content": "reliquary:zombie_heart",
+            "rarity": "UNCOMMON",
+            "amount": 
+            {
+                "min": 1,
+                "max": 3
+            },
+            "unitWorth": 200
+        },
+
+        "slayer_rew_reliquary_bat_wing": {
+            "type": "item",
+            "content": "reliquary:bat_wing",
+            "rarity": "RARE",
+            "amount": 
+            {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 2000
+        },
+
+        "slayer_rew_reliquary_catalyzing_gland": {
+            "type": "item",
+            "content": "reliquary:catalyzing_gland",
+            "rarity": "RARE",
+            "amount": 
+            {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 1000
+        },
+
+        "slayer_rew_reliquary_frozen_core": {
+            "type": "item",
+            "content": "reliquary:frozen_core",
+            "rarity": "RARE",
+            "amount": 
+            {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 2000
+        },
+
+        "slayer_rew_reliquary_molton_core": {
+            "type": "item",
+            "content": "reliquary:molton_core",
+            "rarity": "RARE",
+            "amount": 
+            {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 1500
+        },
+
+        "slayer_rew_reliquary_squid_beak": {
+            "type": "item",
+            "content": "reliquary:squid_beak",
+            "rarity": "RARE",
+            "amount": 
+            {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 1200
+        },
+
+        "slayer_rew_reliquary_withered_rib": {
+            "type": "item",
+            "content": "reliquary:withered_rib",
+            "rarity": "RARE",
+            "amount": 
+            {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 1000
+        },
+
+        "slayer_rew_reliquary_eye_of_the_storm": {
+            "type": "item",
+            "content": "reliquary:eye_of_the_storm",
+            "rarity": "EPIC",
+            "amount": 
+            {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 4000
+        },
+
+        "slayer_rew_reliquary_guardian_spike": {
+            "type": "item",
+            "content": "reliquary:guardian_spike",
+            "rarity": "EPIC",
+            "amount": 
+            {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 4000
+        },
+
+        "slayer_rew_reliquary_nebulous_heart": {
+            "type": "item",
+            "content": "reliquary:nebulous_heart",
+            "rarity": "EPIC",
+            "amount": 
+            {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 8000
+        },
+
+        "slayer_rew_reliquary_slime_pearl": {
+            "type": "item",
+            "content": "reliquary:slime_pearl",
+            "rarity": "EPIC",
+            "amount": 
+            {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 5000
+        },
+
+        "slayer_rew_reliquary_witch_hat": {
+            "type": "item",
+            "content": "reliquary:witch_hat",
+            "rarity": "EPIC",
+            "amount": 
+            {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 4000
+        }
+
+        
+
+    }
+
+}

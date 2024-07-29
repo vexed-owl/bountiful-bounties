@@ -1,0 +1,31 @@
+{
+	"requires": ["supplementaries"],
+	"content": 
+    {
+
+        "farmer_obj_supplementaries_flax": {
+            "type": "item",
+            "content": "supplementaries:flax",
+            "amount": 
+            {
+                "min": 4,
+                "max": 64
+            },
+            "unitWorth": 50
+        },
+
+        "farmer_obj_supplementaries_flax_block": {
+            "type": "item",
+            "content": "supplementaries:flax_block",
+            "rarity": "UNCOMMON",
+            "amount": 
+            {
+                "min": 2,
+                "max": 16
+            },
+            "unitWorth": 450
+        }
+
+    }
+
+}
